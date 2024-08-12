@@ -13,8 +13,8 @@
 name: OpenWrt Builder
 
 on:
-  schedule:
-    - cron: 00 09 * * *
+#  schedule:
+#    - cron: 00 09 * * *
 
 permissions: write-all
 
